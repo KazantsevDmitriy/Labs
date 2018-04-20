@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  summ.c
+  summ2.c
+  print.c
+  main.c
+c:\users\admin\documents\проекты\lab3_1\lab3_3\main.c(14): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\admin\documents\проекты\lab3_1\lab3_3\main.c(17): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  findFirstNegativeElement.c
+  findFirstElement.c
+  Создание кода...
+  Lab3_3.vcxproj -> C:\Users\Admin\Documents\Проекты\Lab3_1\Debug\Lab3_3.exe
